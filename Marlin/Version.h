@@ -29,7 +29,7 @@
 /**
  * Marlin release version identifier
  */
-#define SHORT_BUILD_VERSION "1.1.0-RCBugFix"
+#define SHORT_BUILD_VERSION "1.1.0-RC6"
 
 /**
  * Verbose version identifier which should contain a reference to the location
